@@ -1,6 +1,6 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A passionate fullstack developer from Czech Republic</h3>
+<h3 align="center">A passionate software developer from Czech Republic</h3>
 <img align="right" alt="galaxy" src="https://cdn.dribbble.com/users/14038/screenshots/6361899/galaxy_dribbble.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teetli19&label=Profile%20views&color=0e75b6&style=flat" alt="teetli19" /> </p>
