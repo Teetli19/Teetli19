@@ -22,12 +22,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=teetli19&show_icons=true&locale=en&layout=compact" alt="teetli19" /></p>
 
-<div align="center" >
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=teetli19&show_icons=true&locale=en" alt="teetli19" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teetli19&show_icons=true&locale=en" alt="teetli19" /></p>
 
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=teetli19&" alt="teetli19" />
-</p>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teetli19&" alt="teetli19" /></p>
